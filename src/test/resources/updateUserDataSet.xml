@@ -1,0 +1,21 @@
+<!DOCTYPE dataset SYSTEM "dataset.dtd">
+<dataset>
+    <table name="USER">
+        <column>id</column>
+        <column>username</column>
+        <column>address</column>
+        <column>email</column>
+        <row>
+            <value>1</value>
+            <value>user</value>
+            <value>address</value>
+            <value>email@mail</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>user3</value>
+            <value>address3</value>
+            <value>email3@mail</value>
+        </row>
+    </table>
+</dataset>

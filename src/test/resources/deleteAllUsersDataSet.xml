@@ -1,0 +1,9 @@
+<!DOCTYPE dataset SYSTEM "dataset.dtd">
+<dataset>
+    <table name="USER">
+        <column>id</column>
+        <column>username</column>
+        <column>address</column>
+        <column>email</column>
+    </table>
+</dataset>
